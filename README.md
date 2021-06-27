@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/Y0V3Gbcb6ZOUTmVeNL/giphy.gif" height="130" width="130">
 
-<p>Este repositório foi criado para manter e revisar conceitos básicos da Linguagem Java.</p>
+<p>Este repositório foi criado para manter e revisar conceitos básicos da Linguagem Java e ao Paradigma de Programação Orientado a Objeto.</p>
 
 <p>Segue abaixo a lista de conteúdos estudados:</p>
 <li><a href="https://github.com/alfeups/javafying/blob/master/classes-objetos-metodos/README.md">Entendendo Classe, Objetos e Métodos</a>

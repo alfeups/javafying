@@ -1,4 +1,4 @@
-# Artigo Java #1 - Entendendo Classe, Objetos e Métodos
+# Entendendo Classe, Objetos e Métodos
 
 <p> Este artigo foi criado a partir da obra de *Java - Como programar -10th Ed*, do autor Deitel.</p><br/>
 
