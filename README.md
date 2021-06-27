@@ -1,4 +1,4 @@
-# Java
+# Java e POO
 
 <img src="https://media.giphy.com/media/Y0V3Gbcb6ZOUTmVeNL/giphy.gif" height="130" width="130">
 
