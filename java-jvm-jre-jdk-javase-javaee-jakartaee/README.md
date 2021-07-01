@@ -14,7 +14,7 @@
 
 <p> Java, compilador e JVM:</p>
 
-<img src="/home/alfeu/Documentos/workspace/javafying/img/java1.png">
+<img src="https://github.com/alfeups/javafying/blob/master/img/java1.png">
 
 ## JRE - Java Runtime Environment
 
